@@ -1,10 +1,10 @@
 ## Hi, I'm Sameer Shaik 👋
-### Design Verification Engineer
+### IP Logic Design and Design Verification Engineer
 
-🔹 IP & SoC-level ASIC Design Verification  
-🔹 Strong in SystemVerilog, UVM, SVA, and Formal Verification  
-🔹 Experienced in constrained-random testing & coverage closure  
-🔹 Solid RTL debug and SoC integration background  
+Design Verification Engineer with **3 years of experience** in **IP design, SoC integration, and verification**.  
+Contributed to **3 tapeout cycles** through spec-driven RTL implementation, lint/CDC cleanup, ECO & formal signoff, and integration support.  
+Skilled in **UVM**, **UPF low-power validation**, and **SVA / JasperGold formal verification**, with strong debug expertise across **RTL and SoC flows**.
+
 
 ---
 
