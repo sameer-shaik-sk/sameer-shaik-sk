@@ -42,12 +42,14 @@ multiple features.
 ### 🧩 Verification Languages & Methodologies
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=for-the-badge)
 ![UVM](https://img.shields.io/badge/UVM-Methodology-brightgreen?style=for-the-badge)
-![SVA](https://img.shields.io/badge/Assertions-SVA-orange?style=for-the-badge)
+![Assertions](https://img.shields.io/badge/Assertions-SVA-orange?style=for-the-badge)
 ![Formal](https://img.shields.io/badge/Formal-Verification-red?style=for-the-badge)
 
-**Core:** Constrained-Random Verification, Directed Testing, ABV (SVA),  
-Testbench Architecture (Driver/Monitor/Scoreboard/Agent/Env),  
-Regression & Debug (waveforms), Functional & Code Coverage
+**Core Verification**
+- Constrained-Random & Directed Testing  
+- Assertion-Based Verification (SVA)  
+- Testbench Architecture (Driver / Monitor / Scoreboard / Agent / Env)  
+- Regression, Waveform Debug, Functional & Code Coverage  
 
 ---
 
@@ -56,30 +58,25 @@ Regression & Debug (waveforms), Functional & Code Coverage
 ![Questa](https://img.shields.io/badge/Siemens-QuestaSim-blue?style=for-the-badge)
 ![Verdi](https://img.shields.io/badge/Synopsys-Verdi-green?style=for-the-badge)
 ![JasperGold](https://img.shields.io/badge/Cadence-JasperGold-darkred?style=for-the-badge)
-![Formality/FEV](https://img.shields.io/badge/Equivalence-Formality%20%7C%20FEV-teal?style=for-the-badge)
+![Formality](https://img.shields.io/badge/Formality%20%7C%20FEV-Equivalence-teal?style=for-the-badge)
 ![VC Lint](https://img.shields.io/badge/Synopsys-VC%20Lint-gray?style=for-the-badge)
-![CDC/RDC](https://img.shields.io/badge/CDC%2FRDC-Analysis-black?style=for-the-badge)
+![CDC](https://img.shields.io/badge/CDC%2FRDC-Analysis-black?style=for-the-badge)
 ![UPF](https://img.shields.io/badge/UPF-Low%20Power-yellow?style=for-the-badge)
 
-**Flows:** Lint cleanup, CDC/RDC checks, ECO implementation, Formal signoff, Integration bring-up
+**Implementation & Signoff**
+- Lint cleanup and CDC/RDC checks  
+- RTL ECO implementation  
+- Formal & equivalence signoff  
+- Integration bring-up and debug  
 
 ---
 
-### 🧠 Design & Integration
-![RTL](https://img.shields.io/badge/RTL-Design%20%26%20Debug-blue?style=for-the-badge)
-![SoC](https://img.shields.io/badge/SoC-Integration-orange?style=for-the-badge)
-![FSM](https://img.shields.io/badge/FSM-Control%20Logic-brightgreen?style=for-the-badge)
-
-**Experience:** Spec-driven RTL updates, FSM/control logic, reset/clocking debug, interface/integration issues, timing-safe RTL handoff
-
----
-
-### 🛠️ Scripting & Environment
-![Linux](https://img.shields.io/badge/Linux-Environment-black?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-Scripting-yellow?style=for-the-badge&logo=python)
-![TCL](https://img.shields.io/badge/TCL-Automation-gray?style=for-the-badge)
-
-**Use-cases:** Regression automation, filelist/log parsing, quick DV utilities
+### 🔌 Design & Integration Knowledge
+- IP & Subsystem Integration  
+- Spec-driven RTL updates  
+- FSM / Control Logic Design  
+- Reset, clocking, and interface debug  
+- Timing-safe RTL handoff
 
 ---
 
