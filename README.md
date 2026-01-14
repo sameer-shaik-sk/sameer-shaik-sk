@@ -37,39 +37,49 @@ multiple features.
 • Implemented SystemVerilog Assertions (SVA) in RTL to validate design specifications. 
 • Developed Python and Perl scripts to automate regression workflows and result analysis, reducing time by ~20%.  
 
-## 🧠 Technical Skills
+## 💻 Technical Skills
 
-### Verification & Methodologies
-- SystemVerilog, UVM, Assertions (SVA)
-- Constrained-Random Verification, ABV
-- Functional & Code Coverage
-- Testbench Architecture (Driver, Monitor, Scoreboard, Agent, Env)
+### 🧩 Verification Languages & Methodologies
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=for-the-badge)
+![UVM](https://img.shields.io/badge/UVM-Methodology-brightgreen?style=for-the-badge)
+![SVA](https://img.shields.io/badge/Assertions-SVA-orange?style=for-the-badge)
+![Formal](https://img.shields.io/badge/Formal-Verification-red?style=for-the-badge)
 
-### Tools & Technologies
-- VCS, Questa, Verdi, JasperGold
-- Linux, Python, Tcl, C/C++
-
-### Protocols & Concepts
-- AXI4 / AXI-Lite, DMA, APB
-- FSM Design, RTL Debug
-- IP & SoC Integration
+**Core:** Constrained-Random Verification, Directed Testing, ABV (SVA),  
+Testbench Architecture (Driver/Monitor/Scoreboard/Agent/Env),  
+Regression & Debug (waveforms), Functional & Code Coverage
 
 ---
 
-## 💼 Experience
-**Intel Corporation**  
-*Design Verification / IP Logic Design Engineer*  
-- IP and SoC-level verification
-- RTL debug and ECO validation
-- SVA and formal verification
-- CDC/Lint and integration support
+### ⚙️ Tools & Flows
+![VCS](https://img.shields.io/badge/Synopsys-VCS-purple?style=for-the-badge)
+![Questa](https://img.shields.io/badge/Siemens-QuestaSim-blue?style=for-the-badge)
+![Verdi](https://img.shields.io/badge/Synopsys-Verdi-green?style=for-the-badge)
+![JasperGold](https://img.shields.io/badge/Cadence-JasperGold-darkred?style=for-the-badge)
+![Formality/FEV](https://img.shields.io/badge/Equivalence-Formality%20%7C%20FEV-teal?style=for-the-badge)
+![VC Lint](https://img.shields.io/badge/Synopsys-VC%20Lint-gray?style=for-the-badge)
+![CDC/RDC](https://img.shields.io/badge/CDC%2FRDC-Analysis-black?style=for-the-badge)
+![UPF](https://img.shields.io/badge/UPF-Low%20Power-yellow?style=for-the-badge)
+
+**Flows:** Lint cleanup, CDC/RDC checks, ECO implementation, Formal signoff, Integration bring-up
 
 ---
 
-## 🧪 Verification Projects
-- **AXI4 + DMA Subsystem Verification**
-- **RISC-V (RV32I) Processor Verification**
-- **AXI-Lite Slave Verification**
+### 🧠 Design & Integration
+![RTL](https://img.shields.io/badge/RTL-Design%20%26%20Debug-blue?style=for-the-badge)
+![SoC](https://img.shields.io/badge/SoC-Integration-orange?style=for-the-badge)
+![FSM](https://img.shields.io/badge/FSM-Control%20Logic-brightgreen?style=for-the-badge)
+
+**Experience:** Spec-driven RTL updates, FSM/control logic, reset/clocking debug, interface/integration issues, timing-safe RTL handoff
+
+---
+
+### 🛠️ Scripting & Environment
+![Linux](https://img.shields.io/badge/Linux-Environment-black?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-Scripting-yellow?style=for-the-badge&logo=python)
+![TCL](https://img.shields.io/badge/TCL-Automation-gray?style=for-the-badge)
+
+**Use-cases:** Regression automation, filelist/log parsing, quick DV utilities
 
 ---
 
