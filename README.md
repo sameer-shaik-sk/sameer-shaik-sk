@@ -74,10 +74,19 @@ multiple features.
 ---
 
 ## 🎓 Education
-MS in Electrical & Computer Engineering
+### Master of Science, Electrical & Computer Engineering, Portland State University ·              Dec 2020 - Jul 2022 
+- Designed RTL for the 8237A-5 DMA controller (single & block modes) in SystemVerilog/UVM; created a verification plan, 
+test cases, and used SVA for unit- and system-level checks. 
+- Implemented and verified an L1 split cache using the MESI protocol for a 32-bit processor; analyzed cache behavior and 
+generated hit/miss and read/write statistics.
+
+### BE, Electronics & Communication Engineering, Sathyabama Institute of Technology · India         June 2014 - July 2018 
 
 ---
 
-## 🔗 Connect with Me
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Email: sameershaiksk18@gmail.com
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameershaiksk18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/sameer-shaik-sk)
+
